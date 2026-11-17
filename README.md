@@ -262,7 +262,7 @@ graph LR
 
 ## Project Report
 
-📄 **[Download the Week 3 Project Report](./Week3-Project-Report.pdf)**
+📄 [Download the Week 3 Project Report](https://github.com/mulengachiwele174-afk/Cybersecurity-Ethical-Hacking-Project/blob/e424a808d3dd36c24605a92649abb6fa0fb491ce/Mulenga_Chiwele_Week_3_Password_Auditing_Report.pdf)
 
 ## About the Author
 
