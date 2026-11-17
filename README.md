@@ -13,6 +13,8 @@
 
 [Overview](#overview) · [Modules](#modules-summary) · [Write-ups](#module-write-ups) · [Results](#final-results-summary) · [Recommendations](#recommendations) · [Contact](#about-the-author)
 
+**© 2026 Mulenga Chiwele. All Rights Reserved.**
+
 </div>
 
 ---
@@ -231,7 +233,7 @@ All work was done against the instructor-provided sample file `My Locked PDF1.pd
 
 ## Repository Structure
 
-The repository contains this `README.md` with the full Week 3 write-up, and a `screenshots` folder with the evidence for each module:
+The repository contains this `README.md` with the full Week 3 write-up, and an `IMAG` folder with the evidence for each module:
 
 - **PM1:** Password cracking with John the Ripper
 - **PM2:** Password cracking with Networkwalks tools
@@ -239,7 +241,7 @@ The repository contains this `README.md` with the full Week 3 write-up, and a `s
 ```mermaid
 graph LR
     A[Week 3 Password Auditing Lab] --> B[README.md]
-    A --> C[screenshots]
+    A --> C[IMAG]
     C --> D[PM1: John the Ripper]
     C --> E[PM2: Networkwalks Password Cracker]
 ```
@@ -247,15 +249,15 @@ graph LR
 ## Evidence
 
 <p align="center">
-  <img src="screenshots/pm1-john-redacted.png" alt="Redacted John the Ripper result" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Cybersecurity-Ethical-Hacking-Project/blob/6b2e9ef713c130a77de3bdfee549c70de8a61d57/IMAG/JOHN.exe.png?raw=true" alt="John the Ripper result" width="80%">
 </p>
 
 <p align="center">
-  <img src="screenshots/pm1-pdf-opened.png" alt="PDF opened successfully" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Cybersecurity-Ethical-Hacking-Project/blob/6b2e9ef713c130a77de3bdfee549c70de8a61d57/IMAG/hash%201%20results%20.png?raw=true" alt="Hash cracking results" width="80%">
 </p>
 
 <p align="center">
-  <img src="screenshots/pm2-networkwalks-redacted.png" alt="Redacted Networkwalks success result" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Cybersecurity-Ethical-Hacking-Project/blob/6b2e9ef713c130a77de3bdfee549c70de8a61d57/IMAG/pm2-networkwalks-success-redacted.png?raw=true" alt="Networkwalks success result" width="80%">
 </p>
 
 ## Project Report
