@@ -13,8 +13,6 @@
 
 [Overview](#overview) · [Modules](#modules-summary) · [Write-ups](#module-write-ups) · [Results](#final-results-summary) · [Recommendations](#recommendations) · [Contact](#about-the-author)
 
-**© 2026 Mulenga Chiwele. All Rights Reserved.**
-
 </div>
 
 ---
