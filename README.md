@@ -69,7 +69,7 @@ All work was done against the instructor-provided sample file `My Locked PDF1.pd
 | Browser tool | Networkwalks Password Cracker |
 | Verification | PDF viewer |
 | Target | Instructor-provided sample PDF |
-| Project date | 25 September 2026 |
+| Project date | 18 November 2026 |
 
 ## Modules Summary
 
